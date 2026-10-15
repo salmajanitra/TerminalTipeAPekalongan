@@ -1,0 +1,6 @@
+{
+  "name": "Jadwal Bus Terminal Tipe A Pekalongan",
+  "description": "Media informasi resmi jadwal layanan bus, rute, kelas armada, dan tarif tiket Terminal Tipe A Pekalongan - Kementerian Perhubungan BPTD Kelas I Jawa Tengah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
